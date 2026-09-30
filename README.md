@@ -150,6 +150,13 @@ rm ~/Library/LaunchAgents/com.adammackey.simplebattery.plist
 Simple Battery is free. If it saves you from a dead headset mid-call, you can
 [buy me a coffee](https://buymeacoffee.com/adammackey).
 
+## More from MackEye Apps
+
+Simple Battery is one of the small apps from [MackEye
+Apps](https://mackeye.app): Mac utilities like Desktop Please and Hold Please,
+and tools for Claude like Meterous and Pulseous. See them all at
+[mackeye.app](https://mackeye.app).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
